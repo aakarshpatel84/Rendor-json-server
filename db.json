@@ -1,0 +1,44 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "Learn Redux",
+      "status": false
+    },
+    {
+      "id": 2,
+      "title": "Learn React",
+      "status": false
+    },
+    {
+      "title": "Learn Coding",
+      "status": false,
+      "id": 4
+    },
+    {
+      "title": "Learn Html",
+      "status": false,
+      "id": 5
+    },
+    {
+      "title": "CSS",
+      "status": false,
+      "id": 6
+    },
+    {
+      "title": "Learn Mongodb",
+      "status": false,
+      "id": 7
+    },
+    {
+      "title": "ss",
+      "status": false,
+      "id": 8
+    },
+    {
+      "title": "Learn Css",
+      "status": false,
+      "id": 9
+    }
+  ]
+}
