@@ -4,41 +4,107 @@
       "id": 1,
       "title": "Learn Redux",
       "status": false
+    }
+  ],
+  "goa": [
+    {
+      "id": 1,
+      "image": "https://imgcld.yatra.com/ytimages/image/upload/t_hotel_yatra_city_mobile/v1450786925/Domestic%20Hotels/Hotels_New%20Delhi/Hotel%20Universe%20Inn/Hotel%20Universe%20Inn/Overview.jpg",
+      "title": "Hotel Universe Inn",
+      "location": "Karol Bagh,",
+      "rating": 3.3,
+      "status": "Very Good",
+      "price": "2,293",
+      "strike": "",
+      "categorey": ""
     },
     {
       "id": 2,
-      "title": "Learn React",
-      "status": false
+      "image": "https://imgcld.yatra.com/ytimages/image/upload/t_hotel_yatra_city_mobile/v1496912102/Hotel/New%20Delhi/00001672/1_IRIpea.jpg",
+      "title": "Hotel Southern",
+      "location": "Karol Bagh,",
+      "rating": 3.8,
+      "status": "Very Good",
+      "price": "2,506",
+      "strike": "2,949",
+      "categorey": ""
     },
     {
-      "title": "Learn Coding",
-      "status": false,
-      "id": 4
+      "id": 3,
+      "image": "https://imgcld.yatra.com/ytimages/image/upload/t_hotel_yatra_city_mobile/v1499833220/Hotel/New%20Delhi/00009357/Deluxe_Room_piorko_MNsUVw.jpg",
+      "title": "Hotel Hari Piorko",
+      "location": "Paharganj,",
+      "rating": 3.9,
+      "status": "Very Good",
+      "price": 499,
+      "strike": "",
+      "categorey": ""
     },
     {
-      "title": "Learn Html",
-      "status": false,
-      "id": 5
+      "id": 4,
+      "image": "https://imgcld.yatra.com/ytimages/image/upload/t_hotel_yatra_city_mobile/v1517397649/Hotel/New%20Delhi/00006892/aster_exterior_RzVbfq.jpg",
+      "title": "Hotel Aster Inn",
+      "location": "Karol Bagh,",
+      "rating": 3.7,
+      "status": "Very Good",
+      "price": "1,900",
+      "strike": "3,800",
+      "categorey": "Couple Friendly"
     },
     {
-      "title": "CSS",
-      "status": false,
-      "id": 6
+      "id": 5,
+      "image": "https://imgcld.yatra.com/ytimages/image/upload/t_hotel_yatra_city_mobile/v6337333227/Hotel/New%20Delhi/00016629/1_okqbsT.JPG",
+      "title": "Hotel Alka Classic",
+      "location": "Connaught Place,",
+      "rating": 3.6,
+      "status": "Very Good",
+      "price": "3,240",
+      "strike": "3,600",
+      "categorey": ""
     },
     {
-      "title": "Learn Mongodb",
-      "status": false,
-      "id": 7
+      "id": 6,
+      "image": "https://imgcld.yatra.com/ytimages/image/upload/t_hotel_yatra_city_mobile/v1521550469/Hotel/New%20Delhi/00000162/gallery5_01eDX9.jpg",
+      "title": "Corus Hotel",
+      "location": "Connaught Place,",
+      "rating": 3.1,
+      "status": "Very Good",
+      "price": "4,759",
+      "strike": "5,599",
+      "categorey": ""
     },
     {
-      "title": "ss",
-      "status": false,
-      "id": 8
+      "id": 7,
+      "image": "https://imgcld.yatra.com/ytimages/image/upload/t_hotel_yatra_city_mobile/v1486449291/Domestic%20Hotels/Hotels_New%20Delhi/Connaught%20Royale/Bedroom_23.jpg",
+      "title": "Connaught Royale",
+      "location": "Connaught Place,",
+      "rating": 3.8,
+      "status": "Very Good",
+      "price": "5,526",
+      "strike": "6,579",
+      "categorey": "Couple Friendly"
     },
     {
-      "title": "Learn Css",
-      "status": false,
-      "id": 9
+      "id": 8,
+      "image": "https://imgcld.yatra.com/ytimages/image/upload/t_hotel_yatra_city_mobile/v1456378943/Domestic%20Hotels/Hotels_New%20Delhi/Treebo%20Airport%20Grand/Facscade.jpg",
+      "title": "Airport Hotel Grand",
+      "location": "Mahipalpur,",
+      "rating": 3.4,
+      "status": "Very Good",
+      "price": "1,823",
+      "strike": "3,645",
+      "categorey": "Couple Friendly"
+    },
+    {
+      "id": 9,
+      "image": "https://imgcld.yatra.com/ytimages/image/upload/t_hotel_yatra_city_mobile/v1503491979/Hotel/New%20Delhi/00009243/Overview_z0jgTv.jpg",
+      "title": "The Umrao",
+      "location": "Rajokori,",
+      "rating": 4.3,
+      "status": "Excellent",
+      "price": "5,500",
+      "strike": "",
+      "categorey": "Couple Friendly"
     }
   ]
 }
