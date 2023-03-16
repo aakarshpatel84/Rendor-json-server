@@ -119,5 +119,13 @@
       "cost": "4000",
       "booked": false
     }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "aakarsh",
+      "password": "260457",
+      "retypepassword": "260457"
+    }
   ]
 }
