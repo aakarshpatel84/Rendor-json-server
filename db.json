@@ -363,5 +363,37 @@
       "IMDB_Rating": 7.2,
       "ticket": 200
     }
+  ],
+  "products": [
+    {
+      "name": "T-Shirt",
+      "price": 300,
+      "quantity": 10
+    },
+    {
+      "name": "Shoes",
+      "price": 500,
+      "quantity": 15
+    },
+    {
+      "name": "Jeans",
+      "price": 800,
+      "quantity": 12
+    },
+    {
+      "name": "Jacket",
+      "price": 2500,
+      "quantity": 8
+    },
+    {
+      "name": "Hoddies",
+      "price": 850,
+      "quantity": 10
+    },
+    {
+      "name": "Joggers",
+      "price": 550,
+      "quantity": 4
+    }
   ]
 }
