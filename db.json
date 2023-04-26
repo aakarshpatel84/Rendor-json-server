@@ -395,5 +395,49 @@
       "price": 550,
       "quantity": 4
     }
+  ],
+  "mcq": [
+    {
+      "title": "What is the capital of Japan ?",
+      "option": ["Tokyo", "India", "Maxico", "Begeing"]
+    },
+
+    {
+      "title": "Who wrote the novel To Kill a 'Mockingbird' ?",
+      "option": ["Tokyo", "India", "Maxico", "Begeing"]
+    },
+    {
+      "title": "Which planet is known as the 'Red Planet' ?",
+      "option": ["Tokyo", "India", "Maxico", "Begeing"]
+    },
+    {
+      "title": "Which planet is known as the Red Planet ?",
+      "option": ["Tokyo", "India", "Maxico", "Begeing"]
+    },
+
+    {
+      "title": "Who invented the telephone ?",
+      "option": ["Tokyo", "India", "Maxico", "Begeing"]
+    },
+    {
+      "title": "Which is the largest ocean on Earth ?",
+      "option": ["Tokyo", "India", "Maxico", "Begeing"]
+    },
+    {
+      "title": "Who is the current President of the United States ?",
+      "option": ["Tokyo", "India", "Maxico", "Begeing"]
+    },
+    {
+      "title": "Which country is the largest producer of coffee in the world ?",
+      "option": ["Tokyo", "India", "Maxico", "Begeing"]
+    },
+    {
+      "title": "Who painted the Mona Lisa ?",
+      "option": ["Tokyo", "India", "Maxico", "Begeing"]
+    },
+    {
+      "title": "Which is the highest mountain peak in the world ?",
+      "option": ["Tokyo", "India", "Maxico", "Begeing"]
+    }
   ]
 }
